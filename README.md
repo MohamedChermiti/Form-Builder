@@ -1,6 +1,6 @@
 # To run the project :
 
-npm install --legacy-peer-deps
+npm install --legacy-peer-deps <br />
 npm run start
 
 # NODE/ NPM VERSIONS :
